@@ -7,7 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="loadData" />
+        <module name="Xtglv" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xtglv" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
